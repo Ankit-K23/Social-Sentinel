@@ -28,7 +28,7 @@ const users = [
     {
         username: "ankit._.atcc",
         followersCount: 88,
-        postsCount: 0,
+        postsCount: 2,
         isVerified: false,
         profilepic: "a.jpg",
         creationDate: '2021-12-01',
